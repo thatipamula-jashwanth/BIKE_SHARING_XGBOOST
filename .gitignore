@@ -1,0 +1,8 @@
+.SeoulBikeData_encoded.csv
+.X_val.csv
+.X_train.csv
+y_val_log.csv
+.y_train_log.csv
+.y_val.csv
+.y_train.csv
+*.pkl
